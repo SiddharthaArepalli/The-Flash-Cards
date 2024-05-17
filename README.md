@@ -45,7 +45,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/flash-card-creator.git
+    git clone https://github.com/SiddharthaArepalli/flash-card-creator.git
     cd flash-card-creator
     ```
 
@@ -71,7 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or suggestions, feel free to reach out to me at [your.email@example.com](mailto:asiddhathagoud@gmail.com).
 
 ---
 
