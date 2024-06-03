@@ -48,6 +48,7 @@ Follow these steps to get the project up and running on your local machine:
     git clone https://github.com/SiddharthaArepalli/flash-card-creator.git
     cd flash-card-creator
     ```
+    
 
 2. Install the dependencies:
     ```sh
